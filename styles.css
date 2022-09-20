@@ -1,0 +1,41 @@
+p {
+background-color: aqua;
+}
+
+body {
+    background-color:beige;
+    /* font-size: 200%; */
+}
+
+#abs {
+    position: absolute;
+    margin-left: 200px;
+    height: 50px;
+}
+
+#lorem {
+    background-color: gainsboro;
+    line-height: 2;
+    width : 50%;
+    padding: 50px;
+    margin: 50px auto;
+
+} 
+
+a:hover {
+    color:brown;
+}
+
+.center {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    font-size: 2.4em;
+}
+
+.rem {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    font-size: 2.4rem;
+}
